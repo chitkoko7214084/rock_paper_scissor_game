@@ -1,5 +1,6 @@
 #author : Chit Ko Ko
 
+import random
 rock = '''
     _______
 ---'   ____)
@@ -29,7 +30,6 @@ scissors = '''
 
 #Write your code below this line 👇
 
-import random
 
 choices = [rock, paper, scissors]
 
